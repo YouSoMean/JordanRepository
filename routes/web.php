@@ -11,6 +11,13 @@
 |
 */
 
-Route::get('/', function () {
+/* ROUTE EVERYTHING HERE */
+
+Route::get('/hello', function () {
+    return view('hello');
+});
+
+
+Route::get('/login', function () {
     return view('welcome');
 });

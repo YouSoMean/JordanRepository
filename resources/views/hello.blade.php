@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    This Laravel is Jordan's
+                    TEST ROUTE
                 </div>
 
                 <div class="links">
